@@ -62,7 +62,7 @@ Ir além: Implementou um componente de extra, fez com millis() ao invés do dela
 
 <br>
 
-**Avaliador Y**: Maria 
+**Avaliador Y**: Maria Arielly
 | Critério | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) |Observações do Avaliador
 |-------------|-------------|-------------|-------------|-------------|
 Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores| Até 3 | Até 1,5 | 0 | 3 |
