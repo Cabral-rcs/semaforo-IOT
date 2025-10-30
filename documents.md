@@ -28,7 +28,7 @@ No circuito existe um botão que começa o loop no vermelho e ao ser pressionado
 | resistor| 330 ohms | - Led vermelho
 | resistor| 330 ohms | - Led amarelo
 | resistor| 330 ohms | - Led verde
-| resistor| 1k ohms | - Led botão
+| resistor| 1k ohms | - botão
 | botão| ---| porta 34
 | jumpers| ---| ---
 | protoboard| ---| ---
